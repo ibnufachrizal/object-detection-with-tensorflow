@@ -19,7 +19,7 @@ const About = () => {
           Feel free to pull request for fixing bugs, new features and many more
         </span>
         <a
-          href="https://github.com/novandi18/object-detection-tensorflow"
+          href="https://github.com/ibnufachrizal/object-detection-with-tensorflow"
           target="_blank"
           rel="noreferrer"
           className="mt-3 flex items-center self-start rounded-full bg-gray-900 py-1 pl-4 pr-5 transition-all duration-150 hover:bg-gray-800 hover:shadow-xl"
